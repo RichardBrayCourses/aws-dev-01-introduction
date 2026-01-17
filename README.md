@@ -9,7 +9,7 @@ To get started you will need the following software installed:
 - git (including the git credential manager)
 - Visual Studio Code
 - AWS CLI
-- AWS CDK (cdk CLI)
+- AWS CDK
 
 Later on in the course we will install other software, e.g. PostgreSQL client tools and Redgate Flyway for database versioning ... but for now this is all you need to get started with the first few sections.
 
