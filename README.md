@@ -21,7 +21,9 @@ Firstly go to
 brew.sh
 ```
 
-and follow the instructions for installing homebrew. Then use homebrew commands as follows:
+and follow the instructions for installing homebrew.
+
+Then use homebrew to install whichever packages you don't already have. Here are the commands.
 
 ```
   brew install --cask google-chrome
@@ -36,7 +38,7 @@ and follow the instructions for installing homebrew. Then use homebrew commands 
 
 ## Windows setup
 
-Open a new powershell terminal in admin mode and run the following commands.
+Open a new powershell terminal in admin mode and use winget to install whichever packages you don't already have. Here are the commands.
 
 ```
   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
