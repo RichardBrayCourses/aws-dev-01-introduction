@@ -1,6 +1,6 @@
 # Aws Full-Stack Cloud Development
 
-# Setup Overview
+# Initial Setup
 
 To get started you will need the following software installed:
 
@@ -37,8 +37,6 @@ and follow the instructions for installing homebrew. Then use homebrew commands 
 ## Windows setup
 
 Open a new powershell terminal in admin mode and run the following commands.
-
-The first command ensures that the other programs work without security issues once they are installed - you may well get errors without it!
 
 ```
   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
