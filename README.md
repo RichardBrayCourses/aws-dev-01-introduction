@@ -32,7 +32,12 @@ Then use homebrew to install whichever packages you don't already have. Here are
   brew install --cask git-credential-manager
   brew install --cask visual-studio-code
   brew install awscli
-  brew install aws-cdk
+```
+
+then in a new terminal (to get the correct PATH)
+
+```
+  npm install -g aws-cdk
   git-credential-manager configure
 ```
 
@@ -51,7 +56,7 @@ Open a new powershell terminal in admin mode and use winget to install whichever
 
 ```
 
-then in a new terminal (to ensure node and npm are on the path)
+then in a new terminal (to get the correct PATH)
 
 ```
   npm install -g aws-cdk
