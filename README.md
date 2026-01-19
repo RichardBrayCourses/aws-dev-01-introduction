@@ -52,7 +52,6 @@ Open a new powershell terminal in admin mode and use winget to install whichever
   winget install Google.Chrome
   winget install OpenJS.NodeJS
   winget install Git.Git
-  winget install GitHub.GitCredentialManager
   winget install Microsoft.VisualStudioCode
   winget install Amazon.AWSCLI
 
